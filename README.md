@@ -1,3 +1,4 @@
+<img width="2004" height="1131" alt="download" src="https://github.com/user-attachments/assets/4ab49163-7fc4-496a-82f2-0551520b7993" />
 # DocMind
 
 DocMind is a browser-based PDF question-answering app built as a learning exercise for RAG. Users upload a text-based PDF, the app extracts and chunks the text, generates embeddings with Cohere, retrieves the most relevant passages for each question, and returns answers with source excerpts shown.
@@ -21,11 +22,10 @@ DocMind is a browser-based PDF question-answering app built as a learning exerci
 
 ## Screenshots
 
-| Landing and API key setup | Upload flow |
-| --- | --- |
-| ![DocMind landing page and API key entry](docs/screenshots/landing-api-key-xs.jpg) | ![DocMind PDF upload screen](docs/screenshots/upload-screen-xs.jpg) |
-| Chat workspace | Example grounded response |
-| ![DocMind chat ready state](docs/screenshots/chat-ready-xs.jpg) | ![DocMind grounded response example](docs/screenshots/chat-response-xs.jpg) |
+<img width="1996" height="1893" alt="Screenshot 2026-04-15 181210" src="https://github.com/user-attachments/assets/04cea563-9abe-4856-a0a2-9a8ab44428b2" />
+<img width="2003" height="1898" alt="Screenshot 2026-04-15 181238" src="https://github.com/user-attachments/assets/1b791f08-309b-47b1-973e-6b649ff51dd2" />
+<img width="2009" height="1903" alt="Screenshot 2026-04-15 181315" src="https://github.com/user-attachments/assets/dd3f610d-1a8e-4a0d-8f08-405c7fe1dc47" />
+![Uploading Screenshot 2026-04-15 181238.png…]()
 
 ## Tech Stack
 
