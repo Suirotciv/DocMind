@@ -1,0 +1,51 @@
+{
+  "name": "docmind-rag-pdf-qa",
+  "description": "Client-side PDF question answering tool powered by Cohere embeddings and chat.",
+  "private": false,
+  "version": "0.1.0",
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suirotciv/DocMind.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Suirotciv/DocMind/issues"
+  },
+  "homepage": "https://github.com/Suirotciv/DocMind#readme",
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "pdf",
+    "rag",
+    "semantic-search",
+    "cohere",
+    "react",
+    "vite",
+    "ai"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "typecheck": "tsc --noEmit",
+    "check": "npm run typecheck && npm run build",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "pdfjs-dist": "^5.6.205",
+    "react": "19.2.3",
+    "react-dom": "19.2.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "4.1.17",
+    "@types/node": "22.19.17",
+    "@types/react": "19.2.7",
+    "@types/react-dom": "19.2.3",
+    "@vitejs/plugin-react": "5.1.1",
+    "tailwindcss": "4.1.17",
+    "typescript": "5.9.3",
+    "vite": "^7.3.2",
+    "vite-plugin-singlefile": "2.3.0"
+  }
+}
