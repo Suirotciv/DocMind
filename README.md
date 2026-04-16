@@ -19,6 +19,14 @@ DocMind is a browser-based PDF question-answering app built as a learning exerci
 - Progress feedback during extraction and indexing
 - Example prompt shortcuts
 
+## Screenshots
+
+| Landing and API key setup | Upload flow |
+| --- | --- |
+| ![DocMind landing page and API key entry](docs/screenshots/landing-api-key-xs.jpg) | ![DocMind PDF upload screen](docs/screenshots/upload-screen-xs.jpg) |
+| Chat workspace | Example grounded response |
+| ![DocMind chat ready state](docs/screenshots/chat-ready-xs.jpg) | ![DocMind grounded response example](docs/screenshots/chat-response-xs.jpg) |
+
 ## Tech Stack
 
 - React 19

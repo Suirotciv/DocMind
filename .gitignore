@@ -9,3 +9,5 @@ coverage/
 .env.*
 .idea/
 .vscode/
+private/
+DocMind-archive-*.zip
